@@ -2,6 +2,5 @@
 Jogo de labirinto feito pelo Unity em 2D 
 
 
-[<img width="460" height="300" src="labirinto-game-2D/Gif/MazeGame2D.gif">]
-
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]
 
